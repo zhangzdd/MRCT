@@ -1,0 +1,7 @@
+convertposition: 移动物体，到达预设位置或会停止，取消可移动功能
+Dontdestroy: 切换场景时不消除该物体
+exit:退出应用
+Explodeview:产生物体分裂效果
+PartAssembly:产生物体组装效果
+SceneChange:切换场景
+visblale:控制可见性
